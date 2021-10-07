@@ -1,0 +1,179 @@
+Skyline Frequent Item Sets: 
+['Aaronovitch, Ben'], support=0.10699588477366255
+['Anders, Charlie Jane'], support=0.11522633744855967
+['Atwood, Margaret'], support=0.09876543209876543
+['Bardugo, Leigh'], support=0.102880658436214
+['Bear, Elizabeth'], support=0.11934156378600823
+['Beaulieu, Bradley P.'], support=0.10699588477366255
+['Bennett, Robert Jackson'], support=0.12757201646090535
+['Brown, Pierce'], support=0.102880658436214
+['Bujold, Lois McMaster'], support=0.09053497942386832
+['Butler, Octavia E.'], support=0.09053497942386832
+['Carriger, Gail'], support=0.08641975308641975
+['Drake, Darrell'], support=0.11934156378600823
+['Elliott, Kate / Rasmussen, Alis A.'], support=0.08641975308641975
+['Erikson, Steven'], support=0.08641975308641975
+['Huff, Tanya'], support=0.0823045267489712
+['Hurley, Kameron'], support=0.13580246913580246
+['Jones, Diana Wynne'], support=0.11522633744855967
+['Kowal, Mary Robinette'], support=0.1111111111111111
+['Lee, Yoon Ha'], support=0.09876543209876543
+['Liu, Ken'], support=0.102880658436214
+['Liu, Marjorie'], support=0.08641975308641975
+['Martin, George R. R.'], support=0.09053497942386832
+['McGuire, Seanan / Grant, Mira'], support=0.13991769547325103
+['Okorafor, Nnedi'], support=0.09053497942386832
+['Patrick, Benedict'], support=0.09876543209876543
+['Schafer, Courtney'], support=0.16049382716049382
+['Schwab, V. E. / Schwab, Victoria'], support=0.13991769547325103
+['Smith, Sherwood'], support=0.11934156378600823
+['Stiefvater, Maggie'], support=0.102880658436214
+['Vaughan, Brian K.'], support=0.12345679012345678
+['Villoso, K. S.'], support=0.08641975308641975
+['Walton, Jo'], support=0.12757201646090535
+['Wecker, Helene'], support=0.12345679012345678
+['Wells, Martha'], support=0.09053497942386832
+['Willis, Connie'], support=0.1440329218106996
+['Wolfe, Gene'], support=0.09876543209876543
+['Wurts, Janny'], support=0.13580246913580246
+['Zelazny, Roger'], support=0.13580246913580246
+['Aaron, Rachel / Bach, Rachel', 'Bancroft, Josiah'], support=0.09465020576131687
+['Aaron, Rachel / Bach, Rachel', 'VanderMeer, Jeff'], support=0.08641975308641975
+['Bancroft, Josiah', 'Abercrombie, Joe'], support=0.10699588477366255
+['Eames, Nicholas', 'Abercrombie, Joe'], support=0.0823045267489712
+['Gaiman, Neil', 'Abercrombie, Joe'], support=0.09876543209876543
+['Abercrombie, Joe', 'Lawrence, Mark'], support=0.09876543209876543
+['Sanderson, Brandon', 'Abercrombie, Joe'], support=0.1111111111111111
+['Addison, Katherine / Monette, Sarah', 'Gaiman, Neil'], support=0.09876543209876543
+['Hobb, Robin / Lindholm, Megan', 'Addison, Katherine / Monette, Sarah'], support=0.09465020576131687
+['Jemisin, N. K.', 'Addison, Katherine / Monette, Sarah'], support=0.0823045267489712
+['Addison, Katherine / Monette, Sarah', 'Lawrence, Mark'], support=0.10699588477366255
+['McClellan, Brian', 'Addison, Katherine / Monette, Sarah'], support=0.0823045267489712
+['Novik, Naomi', 'Addison, Katherine / Monette, Sarah'], support=0.09053497942386832
+['Pratchett, Terry', 'Addison, Katherine / Monette, Sarah'], support=0.0823045267489712
+['Arden, Katherine', 'Jemisin, N. K.'], support=0.11522633744855967
+['Ball, Krista D. / Ball, K.', 'Jemisin, N. K.'], support=0.09053497942386832
+['Bancroft, Josiah', 'Brennan, Marie'], support=0.11522633744855967
+['Chambers, Becky', 'Bancroft, Josiah'], support=0.10699588477366255
+['Bancroft, Josiah', 'Gladstone, Max'], support=0.08641975308641975
+['Hawkins, Scott', 'Bancroft, Josiah'], support=0.09053497942386832
+['Bancroft, Josiah', 'Herbert, Frank'], support=0.08641975308641975
+['Hobb, Robin / Lindholm, Megan', 'Bancroft, Josiah'], support=0.13168724279835392
+['Bancroft, Josiah', 'Kay, Guy Gavriel'], support=0.08641975308641975
+['Bancroft, Josiah', 'King, Stephen'], support=0.09465020576131687
+['Bancroft, Josiah', 'Le Guin, Ursula K.'], support=0.08641975308641975
+['Lynch, Scott', 'Bancroft, Josiah'], support=0.10699588477366255
+['McClellan, Brian', 'Bancroft, Josiah'], support=0.0823045267489712
+['Mieville, China', 'Bancroft, Josiah'], support=0.11934156378600823
+['Bancroft, Josiah', 'Rowe, Andrew'], support=0.11522633744855967
+['Sullivan, Michael J.', 'Bancroft, Josiah'], support=0.13580246913580246
+['Bancroft, Josiah', 'Valente, Catherynne M.'], support=0.08641975308641975
+['VanderMeer, Jeff', 'Bancroft, Josiah'], support=0.1111111111111111
+['Hobb, Robin / Lindholm, Megan', 'Brennan, Marie'], support=0.0823045267489712
+['Jemisin, N. K.', 'Brennan, Marie'], support=0.13580246913580246
+['Mieville, China', 'Brennan, Marie'], support=0.09053497942386832
+['Sanderson, Brandon', 'Brennan, Marie'], support=0.09053497942386832
+['Brennan, Marie', 'Valente, Catherynne M.'], support=0.09876543209876543
+['Butcher, Jim', 'Lawrence, Mark'], support=0.08641975308641975
+['Sanderson, Brandon', 'Butcher, Jim'], support=0.10699588477366255
+['Chambers, Becky', 'Jemisin, N. K.'], support=0.08641975308641975
+['Chambers, Becky', 'Sanderson, Brandon'], support=0.09876543209876543
+['Eames, Nicholas', 'Gaiman, Neil'], support=0.09053497942386832
+['Eames, Nicholas', 'Jemisin, N. K.'], support=0.09053497942386832
+['Eames, Nicholas', 'Lawrence, Mark'], support=0.11522633744855967
+['Eames, Nicholas', 'Lynch, Scott'], support=0.09053497942386832
+['Eames, Nicholas', 'Mieville, China'], support=0.09876543209876543
+['Eames, Nicholas', 'Sullivan, Michael J.'], support=0.08641975308641975
+['Hobb, Robin / Lindholm, Megan', 'Gaiman, Neil'], support=0.0823045267489712
+['Jemisin, N. K.', 'Gaiman, Neil'], support=0.09465020576131687
+['Lynch, Scott', 'Gaiman, Neil'], support=0.09465020576131687
+['Mieville, China', 'Gaiman, Neil'], support=0.0823045267489712
+['Novik, Naomi', 'Gaiman, Neil'], support=0.09465020576131687
+['Pratchett, Terry', 'Gaiman, Neil'], support=0.11934156378600823
+['Rowe, Andrew', 'Gaiman, Neil'], support=0.09053497942386832
+['Sanderson, Brandon', 'Gaiman, Neil'], support=0.1522633744855967
+['Sullivan, Michael J.', 'Gaiman, Neil'], support=0.09876543209876543
+['VanderMeer, Jeff', 'Gaiman, Neil'], support=0.09876543209876543
+['Gladstone, Max', 'Sanderson, Brandon'], support=0.09053497942386832
+['Hobb, Robin / Lindholm, Megan', 'Jemisin, N. K.'], support=0.12345679012345678
+['Hobb, Robin / Lindholm, Megan', 'King, Stephen'], support=0.09465020576131687
+['Hobb, Robin / Lindholm, Megan', 'Lawrence, Mark'], support=0.10699588477366255
+['Hobb, Robin / Lindholm, Megan', 'Lynch, Scott'], support=0.0823045267489712
+['Hobb, Robin / Lindholm, Megan', 'Mieville, China'], support=0.09876543209876543
+['Hobb, Robin / Lindholm, Megan', 'Novik, Naomi'], support=0.08641975308641975
+['Hobb, Robin / Lindholm, Megan', 'Pratchett, Terry'], support=0.0823045267489712
+['Hobb, Robin / Lindholm, Megan', 'Rowe, Andrew'], support=0.0823045267489712
+['Hobb, Robin / Lindholm, Megan', 'Sanderson, Brandon'], support=0.12757201646090535
+['Jemisin, N. K.', 'Lawrence, Mark'], support=0.09876543209876543
+['Le Guin, Ursula K.', 'Jemisin, N. K.'], support=0.10699588477366255
+['Mieville, China', 'Jemisin, N. K.'], support=0.09053497942386832
+['Novik, Naomi', 'Jemisin, N. K.'], support=0.11934156378600823
+['Jemisin, N. K.', 'Pratchett, Terry'], support=0.0823045267489712
+['Sullivan, Michael J.', 'Jemisin, N. K.'], support=0.0823045267489712
+['Jemisin, N. K.', 'Valente, Catherynne M.'], support=0.11522633744855967
+['VanderMeer, Jeff', 'Jemisin, N. K.'], support=0.08641975308641975
+['Sanderson, Brandon', 'King, Stephen'], support=0.102880658436214
+['Lynch, Scott', 'Lawrence, Mark'], support=0.09465020576131687
+['Novik, Naomi', 'Lawrence, Mark'], support=0.0823045267489712
+['Pratchett, Terry', 'Lawrence, Mark'], support=0.10699588477366255
+['Rowe, Andrew', 'Lawrence, Mark'], support=0.11522633744855967
+['Sullivan, Michael J.', 'Lawrence, Mark'], support=0.09876543209876543
+['VanderMeer, Jeff', 'Lawrence, Mark'], support=0.11522633744855967
+['Le Guin, Ursula K.', 'Sanderson, Brandon'], support=0.09053497942386832
+['Lynch, Scott', 'Pratchett, Terry'], support=0.09876543209876543
+['Lynch, Scott', 'Sanderson, Brandon'], support=0.09876543209876543
+['McClellan, Brian', 'Sanderson, Brandon'], support=0.1111111111111111
+['Mieville, China', 'Pratchett, Terry'], support=0.09053497942386832
+['Mieville, China', 'Sanderson, Brandon'], support=0.1111111111111111
+['North, Claire / Webb, Catherine / Griffin, Kate', 'Sanderson, Brandon'], support=0.0823045267489712
+['Novik, Naomi', 'Pratchett, Terry'], support=0.0823045267489712
+['Novik, Naomi', 'Rowe, Andrew'], support=0.0823045267489712
+['Rowe, Andrew', 'Pratchett, Terry'], support=0.0823045267489712
+['Sullivan, Michael J.', 'Pratchett, Terry'], support=0.09465020576131687
+['VanderMeer, Jeff', 'Pratchett, Terry'], support=0.09053497942386832
+['Sanderson, Brandon', 'Rowe, Andrew'], support=0.13991769547325103
+['Sullivan, Michael J.', 'Sanderson, Brandon'], support=0.13168724279835392
+['VanderMeer, Jeff', 'Sanderson, Brandon'], support=0.1111111111111111
+['Bancroft, Josiah', 'Sanderson, Brandon', 'Addison, Katherine / Monette, Sarah'], support=0.08641975308641975
+['Eames, Nicholas', 'Bancroft, Josiah', 'Sanderson, Brandon'], support=0.0823045267489712
+['Bancroft, Josiah', 'Gaiman, Neil', 'Lawrence, Mark'], support=0.0823045267489712
+['Bancroft, Josiah', 'Jemisin, N. K.', 'Sanderson, Brandon'], support=0.09053497942386832
+['Bancroft, Josiah', 'Sanderson, Brandon', 'Lawrence, Mark'], support=0.08641975308641975
+['Novik, Naomi', 'Bancroft, Josiah', 'Sanderson, Brandon'], support=0.09465020576131687
+['Bancroft, Josiah', 'Sanderson, Brandon', 'Pratchett, Terry'], support=0.0823045267489712
+
+Association Rules:
+Rule 1: ['Abercrombie, Joe'] -> Bancroft, Josiah [support=0.10699588477366255, confidence=0.5909090909090909]
+Rule 2: ['Abercrombie, Joe'] -> Gaiman, Neil [support=0.09876543209876543, confidence=0.5454545454545454]
+Rule 3: ['Abercrombie, Joe'] -> Lawrence, Mark [support=0.09876543209876543, confidence=0.5454545454545454]
+Rule 4: ['Abercrombie, Joe'] -> Sanderson, Brandon [support=0.1111111111111111, confidence=0.6136363636363636]
+Rule 5: ['Arden, Katherine'] -> Jemisin, N. K. [support=0.11522633744855967, confidence=0.56]
+Rule 6: ['Chambers, Becky'] -> Bancroft, Josiah [support=0.10699588477366255, confidence=0.52]
+Rule 7: ['Hawkins, Scott'] -> Bancroft, Josiah [support=0.09053497942386832, confidence=0.6470588235294118]
+Rule 8: ['Herbert, Frank'] -> Bancroft, Josiah [support=0.08641975308641975, confidence=0.6774193548387096]
+Rule 9: ['Kay, Guy Gavriel'] -> Bancroft, Josiah [support=0.08641975308641975, confidence=0.6363636363636364]
+Rule 10: ['King, Stephen'] -> Bancroft, Josiah [support=0.09465020576131687, confidence=0.5227272727272727]
+Rule 11: ['Lynch, Scott'] -> Bancroft, Josiah [support=0.10699588477366255, confidence=0.5416666666666666]
+Rule 12: ['Sullivan, Michael J.'] -> Bancroft, Josiah [support=0.13580246913580246, confidence=0.5892857142857143]
+Rule 13: ['Butcher, Jim'] -> Lawrence, Mark [support=0.08641975308641975, confidence=0.5384615384615384]
+Rule 14: ['Butcher, Jim'] -> Sanderson, Brandon [support=0.10699588477366255, confidence=0.6666666666666666]
+Rule 15: ['Gaiman, Neil'] -> Sanderson, Brandon [support=0.1522633744855967, confidence=0.5692307692307692]
+Rule 16: ['King, Stephen'] -> Hobb, Robin / Lindholm, Megan [support=0.09465020576131687, confidence=0.5227272727272727]
+Rule 17: ['Valente, Catherynne M.'] -> Jemisin, N. K. [support=0.11522633744855967, confidence=0.56]
+Rule 18: ['King, Stephen'] -> Sanderson, Brandon [support=0.102880658436214, confidence=0.5681818181818182]
+Rule 19: ['McClellan, Brian'] -> Sanderson, Brandon [support=0.1111111111111111, confidence=0.6428571428571429]
+Rule 20: ['North, Claire / Webb, Catherine / Griffin, Kate'] -> Sanderson, Brandon [support=0.0823045267489712, confidence=0.5555555555555556]
+Rule 21: ['Rowe, Andrew'] -> Sanderson, Brandon [support=0.13991769547325103, confidence=0.576271186440678]
+Rule 22: ['Sullivan, Michael J.'] -> Sanderson, Brandon [support=0.13168724279835392, confidence=0.5714285714285714]
+Rule 23: ['Addison, Katherine / Monette, Sarah', 'Sanderson, Brandon'] -> Bancroft, Josiah [support=0.08641975308641975, confidence=0.6]
+Rule 24: ['Bancroft, Josiah', 'Addison, Katherine / Monette, Sarah'] -> Sanderson, Brandon [support=0.08641975308641975, confidence=0.6176470588235294]
+Rule 25: ['Eames, Nicholas', 'Sanderson, Brandon'] -> Bancroft, Josiah [support=0.0823045267489712, confidence=0.6451612903225806]
+Rule 26: ['Eames, Nicholas', 'Bancroft, Josiah'] -> Sanderson, Brandon [support=0.0823045267489712, confidence=0.5882352941176471]
+Rule 27: ['Gaiman, Neil', 'Lawrence, Mark'] -> Bancroft, Josiah [support=0.0823045267489712, confidence=0.6896551724137931]
+Rule 28: ['Bancroft, Josiah', 'Gaiman, Neil'] -> Lawrence, Mark [support=0.0823045267489712, confidence=0.625]
+Rule 29: ['Jemisin, N. K.', 'Sanderson, Brandon'] -> Bancroft, Josiah [support=0.09053497942386832, confidence=0.5365853658536586]
+Rule 30: ['Bancroft, Josiah', 'Jemisin, N. K.'] -> Sanderson, Brandon [support=0.09053497942386832, confidence=0.6285714285714286]
+Rule 31: ['Sanderson, Brandon', 'Lawrence, Mark'] -> Bancroft, Josiah [support=0.08641975308641975, confidence=0.5384615384615384]
+Rule 32: ['Novik, Naomi', 'Sanderson, Brandon'] -> Bancroft, Josiah [support=0.09465020576131687, confidence=0.6388888888888888]
+Rule 33: ['Novik, Naomi', 'Bancroft, Josiah'] -> Sanderson, Brandon [support=0.09465020576131687, confidence=0.6571428571428571]
+Rule 34: ['Pratchett, Terry', 'Sanderson, Brandon'] -> Bancroft, Josiah [support=0.0823045267489712, confidence=0.5882352941176471]
