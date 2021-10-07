@@ -1,0 +1,48 @@
+Skyline Frequent Item Sets: 
+['Chocolate Eclair'], support=0.0426
+['Vanilla Eclair'], support=0.0427
+['Almond Tart'], support=0.04055
+['Apricot Tart'], support=0.04275
+['Pecan Tart'], support=0.04155
+['Ganache Cookie'], support=0.0433
+['Chocolate Meringue'], support=0.0445
+['Vanilla Meringue'], support=0.0424
+['Almond Croissant'], support=0.04205
+['Chocolate Croissant'], support=0.0446
+['Almond Bear Claw'], support=0.04425
+['Blueberry Danish'], support=0.04115
+['Lemon Cake', 'Lemon Tart'], support=0.037
+['Napoleon Cake', 'Strawberry Cake'], support=0.04455
+['Truffle Cake', 'Gongolais Cookie'], support=0.04335
+['Bottled Water', 'Berry Tart'], support=0.0357
+['Marzipan Cookie', 'Tuile Cookie'], support=0.04855
+['Cheese Croissant', 'Orange Juice'], support=0.0439
+['Chocolate Cake', 'Casino Cake', 'Chocolate Coffee'], support=0.0339
+['Apricot Danish', 'Cherry Tart', 'Opera Cake'], support=0.041
+['Single Espresso', 'Blackberry Tart', 'Coffee Eclair'], support=0.02695
+['Blueberry Tart', 'Apricot Croissant', 'Hot Coffee'], support=0.0326
+['Chocolate Tart', 'Walnut Cookie', 'Vanilla Frappuccino'], support=0.02825
+['Almond Twist', 'Coffee Eclair', 'Apple Pie', 'Hot Coffee'], support=0.0281
+['Cherry Soda', 'Apple Danish', 'Apple Tart', 'Apple Croissant'], support=0.021
+['Lemon Lemonade', 'Raspberry Lemonade', 'Green Tea', 'Raspberry Cookie', 'Lemon Cookie'], support=0.0204
+
+Association Rules:
+Rule 1: ['Casino Cake', 'Chocolate Coffee'] -> Chocolate Cake [support=0.0339, confidence=0.9495798319327731]
+Rule 2: ['Chocolate Cake', 'Casino Cake'] -> Chocolate Coffee [support=0.0339, confidence=0.9456066945606695]
+Rule 3: ['Cherry Tart', 'Opera Cake'] -> Apricot Danish [support=0.041, confidence=0.9392898052691867]
+Rule 4: ['Opera Cake', 'Apricot Danish'] -> Cherry Tart [support=0.041, confidence=0.9457900807381776]
+Rule 5: ['Single Espresso', 'Coffee Eclair'] -> Blackberry Tart [support=0.02695, confidence=0.9197952218430034]
+Rule 6: ['Apricot Croissant', 'Hot Coffee'] -> Blueberry Tart [support=0.0326, confidence=0.9287749287749287]
+Rule 7: ['Blueberry Tart', 'Hot Coffee'] -> Apricot Croissant [support=0.0326, confidence=0.9131652661064426]
+Rule 8: ['Walnut Cookie', 'Vanilla Frappuccino'] -> Chocolate Tart [support=0.02825, confidence=0.9127625201938611]
+Rule 9: ['Chocolate Tart', 'Walnut Cookie'] -> Vanilla Frappuccino [support=0.02825, confidence=0.9247135842880524]
+Rule 10: ['Apple Pie', 'Hot Coffee', 'Coffee Eclair'] -> Almond Twist [support=0.0281, confidence=0.9964539007092199]
+Rule 11: ['Hot Coffee', 'Apple Pie', 'Almond Twist'] -> Coffee Eclair [support=0.0281, confidence=0.9946902654867257]
+Rule 12: ['Hot Coffee', 'Almond Twist', 'Coffee Eclair'] -> Apple Pie [support=0.0281, confidence=0.9982238010657194]
+Rule 13: ['Cherry Soda', 'Apple Tart', 'Apple Croissant'] -> Apple Danish [support=0.021, confidence=0.9929078014184397]
+Rule 14: ['Cherry Soda', 'Apple Danish', 'Apple Croissant'] -> Apple Tart [support=0.021, confidence=0.9882352941176471]
+Rule 15: ['Cherry Soda', 'Apple Danish', 'Apple Tart'] -> Apple Croissant [support=0.021, confidence=0.995260663507109]
+Rule 16: ['Lemon Cookie', 'Raspberry Lemonade', 'Green Tea', 'Raspberry Cookie'] -> Lemon Lemonade [support=0.0204, confidence=1.0]
+Rule 17: ['Lemon Lemonade', 'Lemon Cookie', 'Green Tea', 'Raspberry Cookie'] -> Raspberry Lemonade [support=0.0204, confidence=1.0]
+Rule 18: ['Lemon Lemonade', 'Raspberry Lemonade', 'Green Tea', 'Lemon Cookie'] -> Raspberry Cookie [support=0.0204, confidence=0.9975550122249389]
+Rule 19: ['Lemon Lemonade', 'Raspberry Lemonade', 'Green Tea', 'Raspberry Cookie'] -> Lemon Cookie [support=0.0204, confidence=0.9975550122249389]
